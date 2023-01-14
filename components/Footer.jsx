@@ -37,7 +37,7 @@ const Footer = () => (
 
         <div className="flex gap-4">
           {socials.map((social) => (
-            <img 
+            <img
               key={social.name}
               src={social.url}
               alt={social.name}
