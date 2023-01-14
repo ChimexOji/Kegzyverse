@@ -50,11 +50,7 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-<<<<<<< HEAD
     title: 'The launch of the Kegzyverse makes Okey oji ketar-ketir',
-=======
-    title: 'The launch of the Kegzyverse makes Okey Oji ketar-ketir',
->>>>>>> 20ddf4fd9a100bb0d89c2121ff010e29a148eb8d
     subtitle:
         'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
   },
