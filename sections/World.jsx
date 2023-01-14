@@ -70,12 +70,12 @@ const World = () => (
             className="relative w-full h-full rounded-2xl"
           />
 
-          <div className='text-white w-full absolute bottom-0 left-0 p-2.5'>
+          <div className="text-white w-full absolute bottom-0 left-0 p-2.5">
             <div class="mb-1 text-xs">
               +264 has joined
             </div>
 
-            <div class="font-semibold">
+            <div className="font-semibold">
               Hawkins Labs
             </div>
           </div>
@@ -90,12 +90,12 @@ const World = () => (
             className="relative w-full h-full rounded-2xl"
           />
 
-          <div className='text-white w-full absolute bottom-0 left-0 p-2.5'>
+          <div className="text-white w-full absolute bottom-0 left-0 p-2.5">
             <div class="mb-1 text-xs">
               +269 has joined
             </div>
 
-            <div class="font-semibold">
+            <div className="font-semibold">
               The Upside Down
             </div>
           </div>
