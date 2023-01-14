@@ -45,6 +45,7 @@ const Feedback = () => (
           className="w-full lg:h-[610px] h-auto min-h-[210px] object-cover rounded-[40px]"
         />
 
+<<<<<<< HEAD
         <a href="#explore">
           <motion.div
             variants={zoomIn(0.4, 1)}
@@ -57,6 +58,18 @@ const Feedback = () => (
             />
           </motion.div>
         </a>
+=======
+        <motion.div
+          variants={zoomIn(0.4, 1)}
+          className="lg:block hidden absolute -left-[10%] top-[3%]"
+        >
+          <img
+            src="/stamp.png"
+            alt="stamp"
+            className="w-[155px] h-[155px] object-contain"
+          />
+        </motion.div>
+>>>>>>> 20ddf4fd9a100bb0d89c2121ff010e29a148eb8d
       </motion.div>
     </motion.div>
   </section>
